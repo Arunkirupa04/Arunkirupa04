@@ -13,24 +13,16 @@ Email: arukirupa@gmail.com
 <br>
 🔍 Connect with me:
 <p align="center">
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://medium.com/@arukirupa" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/kirupanantha-aruran-b94387242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/k_arun0412?igsh=OHNsa25saGl4ZHA1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
-  <a href="https://www.youtube.com/c/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" />
-  </a>
+
 </p>
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false"> <img  alt="yourusername's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yourusername?cardType=level-alternate&theme=react&preferLogin=false" /> </a>
