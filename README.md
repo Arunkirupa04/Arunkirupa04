@@ -21,8 +21,8 @@ Email: arukirupa@gmail.com
 
 </p>
 <div align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false"> <img  alt="yourusername's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arunkirupa04?cardType=level-alternate&theme=react&preferLogin=false" /> </a>
-
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false"> <img  alt="Arunkirupa04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arunkirupa04?cardType=level-alternate&theme=react&preferLogin=false" /> </a>
+<br>
   <a href="https://github.com/Arunkirupa04">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkirupa04&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
   </a>
