@@ -1,9 +1,5 @@
 Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
-<p align="center">
-  <a href="https://yourportfolio.com/" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+
 <p align="center">
 🚀 Ambitious IT student at the University of Moratuwa, passionate about web development and creative problem-solving. Skilled in Java, C, JavaScript, React, Node.js, and more. Experienced in building innovative projects like ecommerce platforms and mobile apps. Always eager to learn and take on new challenges in the tech world.
 </p>
