@@ -1,4 +1,4 @@
-<a href="https://github.com/Arunkirupa04/Arunkirupa04/blob/main/coding2.gif?raw=true" target="_blank">
+<a href="https://github.com/Arunkirupa04/Arunkirupa04/blob/main/coding.gif?raw=true" target="_blank">
   <img src="coding.gif" alt="Header" style="width: 100%;"/>
 </a>
 
