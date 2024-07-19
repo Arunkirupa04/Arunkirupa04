@@ -10,8 +10,9 @@ Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
 🚀 Ambitious IT student at the University of Moratuwa, passionate about web development and creative problem-solving. Skilled in Java, C, JavaScript, React, Node.js, and more. Experienced in building innovative projects like ecommerce platforms and mobile apps. Always eager to learn and take on new challenges in the tech world.
 </p>
 <hr/>
-📫 How to reach me:
+📫 How to reach me<br>
 Email: arukirupa@gmail.com
+<br>
 <br>
 🔍 Connect with me:
 <p align="center">
@@ -29,10 +30,12 @@ Email: arukirupa@gmail.com
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false"> <img  alt="Arunkirupa04's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Arunkirupa04?cardType=level-alternate&theme=react&preferLogin=false" /> </a>
 <br>
+  <br>
   <a href="https://github.com/Arunkirupa04">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkirupa04&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
   </a>
 </div>
+<br>
 🧰 Languages and Tools:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;"/>
