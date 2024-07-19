@@ -1,3 +1,5 @@
+[![Header](coding.gif)](https://github.com/madhurajayashanka/madhurajayashanka/blob/main/coding.gif?raw=true)
+
 Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
 
 <p align="center">
