@@ -4,7 +4,7 @@
 
 
 
-Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
+Hello there! 👋 I'm <b>Aruran<b> Kirupananth👨‍💻
 
 <p align="center">
 🚀 Ambitious IT student at the University of Moratuwa, passionate about web development and creative problem-solving. Skilled in Java, C, JavaScript, React, Node.js, and more. Experienced in building innovative projects like ecommerce platforms and mobile apps. Always eager to learn and take on new challenges in the tech world.
