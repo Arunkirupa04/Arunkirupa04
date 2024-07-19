@@ -1,107 +1,56 @@
-# Kirupanantha Aruran
+Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
+<p align="center">
+  <a href="https://yourportfolio.com/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+<p align="center">
+🚀 Ambitious IT student at the University of Moratuwa, passionate about web development and creative problem-solving. Skilled in Java, C, JavaScript, React, Node.js, and more. Experienced in building innovative projects like ecommerce platforms and mobile apps. Always eager to learn and take on new challenges in the tech world.
+</p>
+<hr/>
+📫 How to reach me:
+Email: arukirupa@gmail.com
+Portfolio: <a href="https://yourportfolio.com/" target="_blank">Portfolio</a>
+🔍 Connect with me:
+<p align="center">
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.youtube.com/c/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" />
+  </a>
+</p>
+<div align="center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false"> <img  alt="yourusername's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yourusername?cardType=level-alternate&theme=react&preferLogin=false" /> </a>
 
-## 🎓 Education
-**BSc (Hons) in IT (2022 – Present)**
-- University of Moratuwa, Faculty of Information Technology
-- CGPA: 3.51
-- Level 2 Semester 2 SGPA: 3.80 (Dean’s List)
-
-**Secondary Education (2012 – 2020)**
-- Jaffna Hindu College
-- AL 2020 - Physical Science: A 2B
-
-## 💻 Technical Skills
-
-**Programming Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Web Development:**
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-**Mobile Development:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Database:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design:**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-**Cloud:**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-**IDE & Tools:**
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Applications:**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
-## 🏆 Achievements
-- CodeRush 2023 - 11th Place (organized by Intecs UOM)
-- Hackathon - XTREME 2023 (organized by IESL UOM & IESL YMS)
-- Hackathon - ENIGMA ‘24
-- MoraXtreme 8.0
-- Member of Leo Club - University of Moratuwa
-
-## 📂 Projects
-### 1. Ecommerce Platform for Second-hand Products (2024)
-- **Deployed version:** [Thrifting LK](https://thrifting-lk-fe.onrender.com/)
-- Developed a full-featured e-commerce platform using React, Redux, and MaterialUI for a dynamic front-end.
-- Implemented secure back-end services with Node.js, Express, and MongoDB.
-- Integrated Firebase for real-time chat storage and communication.
-- Contribution: Integrated content-based recommendation engine using Flask, TF-IDF matrix, seamless cart, and real-time chat.
-
-### 2. Movie Ticket Booking System (2023)
-- Developed a movie ticket booking system allowing users to book movies in various theatres, select seats, verify phone numbers via OTP, and generate QR codes for tickets.
-- Utilized the MERN stack (MongoDB, Express, React, Node.js), MUI for the frontend, and Redux for state management.
-
-### 3. Webpage Summarization Tool (2023)
-- Created a tool that reads and summarizes details from any provided webpage link.
-- Utilized React for the frontend and RapidAPI for article summarization.
-
-### 4. Flutter Mobile App for Furniture Store (2023)
-- Developed a Flutter-based furniture store app with Express.js backend and MongoDB.
-- Features include user authentication, product browsing, cart, wishlist, and responsive design.
-
-### 5. Automated Customized Popcorn Maker (2023)
-- Technologies: Arduino mega 2560
-- Used Arduino technology to develop a user-friendly interface for selecting popcorn.
-
-## 🌟 Certifications
-- Exploratory Data Analysis for Machine Learning — Coursera — IBM
-
-## 🛠️ Soft Skills
-- Planning
-- Creativity
-- Time Management
-- Quick Adapter
-- Communication
-
-## 🌐 Languages
-- English: Professional Working Proficiency
-- Tamil: Native or Bilingual Proficiency
-
-## 🎵 Interests
-- Music
-- 3D Designing
-- Web Development
-
-## 📧 Contact
-- **Email:** arukirupa@gmail.com
-- **Phone:** +9476 593 8086
-
-Thank you for visiting my GitHub profile! Feel free to check out my projects and connect with me.
+  <a href="https://github.com/yourusername">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+🧰 Languages and Tools:
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" style="margin: 5px;"/>
+</p>
