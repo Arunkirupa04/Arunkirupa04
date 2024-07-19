@@ -1,4 +1,6 @@
-[![Header](coding.gif)](https://github.com/madhurajayashanka/madhurajayashanka/blob/main/coding.gif?raw=true)
+<a href="https://github.com/madhurajayashanka/madhurajayashanka/blob/main/coding.gif?raw=true" target="_blank">
+  <img src="coding.gif" alt="Header" style="width: 100%;"/>
+</a>
 
 Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
 
