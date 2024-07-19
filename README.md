@@ -1,6 +1,7 @@
 <a href="https://github.com/Arunkirupa04/Arunkirupa04/raw/main/coding.gif" target="_blank">
-  <img src="https://github.com/Arunkirupa04/Arunkirupa04/raw/main/coding.gif" alt="Header" style="width: 100%;"/>
+  <img src="https://github.com/Arunkirupa04/Arunkirupa04/raw/main/coding.gif" alt="Header" style="display: block; width: 100%; height: auto;"/>
 </a>
+
 
 
 Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
