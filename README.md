@@ -42,7 +42,6 @@ Email: arukirupa@gmail.com
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Postman" width="40" height="40" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg" alt="Redux" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="40" height="40" style="margin: 5px;"/>
 
 </p>
