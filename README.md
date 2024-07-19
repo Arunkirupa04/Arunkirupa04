@@ -10,7 +10,7 @@ Hello there! 👋 I'm Kirupanantha Aruran 👨‍💻
 <hr/>
 📫 How to reach me:
 Email: arukirupa@gmail.com
-Portfolio: <a href="https://yourportfolio.com/" target="_blank">Portfolio</a>
+<br>
 🔍 Connect with me:
 <p align="center">
   <a href="https://medium.com/@yourusername" target="_blank">
